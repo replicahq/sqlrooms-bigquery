@@ -5,7 +5,7 @@ BigQuery IO utilities for SQLRooms applications. This package provides server-si
 ## Installation
 
 ```bash
-npm install @sqlrooms/bigquery
+npm install github:replicahq/sqlrooms-bigquery
 ```
 
 ## Features
