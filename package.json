@@ -71,6 +71,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sqlrooms/bigquery.git"
+    "url": "https://github.com/replicahq/sqlrooms-bigquery.git"
   }
 }
